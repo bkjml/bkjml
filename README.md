@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Matiyas Birhane</h1>
+<h1 align="center">Hi 👋, I'm Mathias Birhane</h1>
 <h3 align="center">A Full-Stack Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bkjml&label=Profile%20views&color=0e75b6&style=flat" alt="bkjml" /> </p>
